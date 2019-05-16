@@ -20,12 +20,6 @@ void setup() {
 
 void loop() {
     // Wait for incoming data. Echo it back.
-    while (Serial.available() > 0) {
-        inByte = (char)Serial.read();
-        incomingMessage += inByte;
-        delay(10);
-        isLastByte = true;
-    }
 
     if (isLastByte) {
         char sendMessage[incomingMessage.length() + 1];
