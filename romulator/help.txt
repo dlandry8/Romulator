@@ -1,0 +1,25 @@
+romulator
+	Runs Romulator in menu mode. The romulator program will guide you through
+	its options from its menu.
+	
+romulator help
+romulator -h
+	Brings up this help text.
+
+romulator emulate
+romulator -e
+	Puts your ROM emulator into emulation mode. When plugged in to
+	a test board, your ROM emulator will behave as ROM to the target
+	system.
+	
+romulator read <filename>
+romulator -r <filename>
+	Reads the data stored in your ROM emulator's memory and saves
+	it to a memory dump file. This file displays the data values
+	at each memory location in your ROM emulator in a grid format.
+
+romulator write <filename>
+romulator -w <filename>
+	Writes the data contained in filename to the ROM emulator's
+	memory. The file must be a valid SRecord or Intel Hex, regardless
+	of file extension.
