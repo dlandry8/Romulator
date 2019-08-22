@@ -1,2 +1,0 @@
-Arduino pin 5 to buffer U2 pin 8: need to jump it.
-Arduino pin 29 to buffer U1 pin 15: shorted to ground. Need to cut trace and jump it.
