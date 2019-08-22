@@ -1,3 +1,4 @@
+This is the second main test for the emulator board.
 testAddress0AAA.ino is a test sketch for the Arduino Mega. It attempts to write 0x55 to the RAM's address 0x0AAAA.
 This test verifies whether we can successfully write data to the RAM.
 Successful test:
