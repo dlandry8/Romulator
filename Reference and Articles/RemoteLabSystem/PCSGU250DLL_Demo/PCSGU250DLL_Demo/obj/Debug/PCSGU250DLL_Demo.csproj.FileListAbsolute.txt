@@ -1,0 +1,8 @@
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\PCSGU250DLL_Demo.Form1.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\PCSGU250DLL_Demo.Properties.Resources.resources
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\PCSGU250DLL_Demo.csproj.GenerateResource.Cache
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\bin\Debug\PCSGU250DLL_Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\bin\Debug\PCSGU250DLL_Demo.pdb
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\PCSGU250DLL_Demo.exe
+C:\Users\Asentaja\Documents\Programming\C#2008\PCSGU250DLL_Demo\PCSGU250DLL_Demo\obj\Debug\PCSGU250DLL_Demo.pdb

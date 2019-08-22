@@ -1,0 +1,17 @@
+*-----------------------------------------------------------
+* Title      :  Super quick 1-record sample file.
+* Written by :  David
+* Date       :  4/4/19
+* Description:  Super quick 1-record sample file.
+*-----------------------------------------------------------
+    ORG    $1000
+START:                  ; first instruction of program
+
+* Put program code here
+    MOVE.B      #1, D0  ; move a byte to D0
+
+    SIMHALT             ; halt simulator
+
+* Put variables and constants here
+
+    END    START        ; last line of source

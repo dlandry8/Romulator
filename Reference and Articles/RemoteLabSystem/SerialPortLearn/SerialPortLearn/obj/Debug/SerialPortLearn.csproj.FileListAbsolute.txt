@@ -1,0 +1,56 @@
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.exe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.exe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pdb
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pdb
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SerialPortLearn.exe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SerialPortLearn.pdb
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\be\SerialPortLearn.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\be\SerialPortLearn.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\le\SerialPortLearn.pe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\le\SerialPortLearn.pdbx
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\SerialPortLearn.exe
+C:\Users\gUser\Desktop\SerialPortLearn\SerialPortLearn\obj\Debug\SerialPortLearn.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.exe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.exe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SerialPortLearn.exe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SerialPortLearn.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\le\SerialPortLearn.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\be\SerialPortLearn.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.dll
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\obj\Debug\SerialPortLearn.exe
+C:\Users\gUser\Documents\Visual Studio 2010\Projects\RemoteLabSystem\SerialPortLearn\SerialPortLearn\obj\Debug\SerialPortLearn.pdb
