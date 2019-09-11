@@ -15,7 +15,7 @@ With the prominence of flash memory, this technology is considered legacy. Howev
 of memory addressing, project management, schematic design, and software programming for both hardware and software.
 
 Romulator consists of:
-   * The ROM Emulator board prototype, currently held by the University of Washington, Bothell's department of STEM. The board is not currently       
-       functioning.
+   * The ROM Emulator board prototype, currently held by the University of Washington, Bothell's department of STEM. The board is
+      not currently functioning, but fixes in the schematic have been included.
   * Romulator, the software interface for Microsoft Windows.
   * RomArd, the program written to the on-board Arduino Mega.
